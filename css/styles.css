@@ -138,7 +138,6 @@ body {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
-  text-transform: uppercase;
 }
 .team {
   background-color: var(--team-background-color);
@@ -178,7 +177,7 @@ body {
   line-height: 1.88;
   color: var(--paragraph-color);
 }
-.current {
+button.current {
   color: var(--current-color);
   background-color: var(--accent-color);
 }
